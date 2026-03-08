@@ -43,15 +43,5 @@ AI-powered Web Application Firewall — detects SQL Injection & XSS using Random
 ### 🤖 [LeetBuddy](https://github.com/rachel/leetbuddy)
 Chrome extension integrating Gemini LLM with RAG patterns for context-aware coding hints. Built with DOM scraping, semantic caching, and structured prompt engineering.
 
----
-
-## 📊 GitHub Stats
-
-![Rachel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rachel&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rachel&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 *"Build things. Break things. Fix things."*
 
